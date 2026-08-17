@@ -1,0 +1,24 @@
+﻿id;data;cliente_id;tipo;valor;descricao;categoria
+1;05/01/2026;CLI001;credito;3500;Salário janeiro;salario
+2;08/01/2026;CLI002;debito;180.5;Supermercado;compra
+3;12/01/2026;CLI003;credito;4200;Pagamento projeto;servico
+4;20/01/2026;CLI001;debito;850;Aluguel;moradia
+5;25/01/2026;CLI004;debito;120.9;Farmácia;saude
+6;03/02/2026;CLI002;credito;3800;Salário fevereiro;salario
+7;08/02/2026;CLI005;debito;250;Internet;conta
+8;10/02/2026;CLI003;credito;15000;Bônus anual;transferencia
+9;18/02/2026;CLI001;debito;410.75;Combustível;transporte
+10;25/02/2026;CLI004;debito;980;Notebook;compra
+11;02/03/2026;CLI001;credito;3600;Salário março;salario
+12;05/03/2026;CLI002;debito;199.99;Streaming;assinatura
+13;10/03/2026;CLI005;credito;25000;Venda imóvel;transferencia
+14;18/03/2026;CLI003;debito;90;Café;alimentacao
+15;22/03/2026;CLI004;debito;1500;Viagem;lazer
+16;30/01/2026;CLI006;credito;4100;Freelance;servico
+17;28/02/2026;CLI006;debito;320;Restaurante;alimentacao
+18;28/03/2026;CLI002;credito;4800;Comissão;vendas
+,;15/01/2026;CLI007;credito;3000;ID vazio;salario
+20;2026-13-05;CLI008;debito;200;Data inválida;compra
+21;12/02/2026;;credito;5000;Cliente vazio;salario
+22;10/03/2026;CLI009;pagamento;300;Tipo inválido;compra
+23;15/03/2026;CLI010;debito;abc;Valor inválido;compra
